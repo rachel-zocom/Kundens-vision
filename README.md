@@ -1,6 +1,6 @@
 # Mock data för restaurangens meny
 
-Lägg till denna fil i er html som en javascript-fil:
+Lägg till filen db.js i er html som en javascript-fil:
 
 ```html
 <script src="db.js"></script>
